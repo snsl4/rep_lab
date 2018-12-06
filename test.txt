@@ -7,3 +7,8 @@ Sosnov
 kek
 Sosnov
 
+<<<<<<< HEAD
+=======
+Sosnov
+Lebedev
+>>>>>>> new_branch4
