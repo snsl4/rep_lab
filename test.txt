@@ -12,3 +12,5 @@ Sosnov
 Sosnov
 Lebedev
 >>>>>>> new_branch4
+
+zminy v 9 pynkte
